@@ -1,0 +1,19 @@
+{
+  "name": "game",
+  "version": "0.0.0",
+  "description": "",
+  "main": "blackjack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "sugar": "~1.4.1",
+    "prompt-autocomplete": "~1.1.0",
+    "colors": "~1.1.2",
+    "minimist": "~1.2.0",
+    "async": "~1.4.2",
+    "sync": "~0.2.5"
+  }
+}
